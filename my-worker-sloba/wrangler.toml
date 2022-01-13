@@ -1,0 +1,8 @@
+name = "my-worker"
+type = "webpack"
+
+account_id = "6dfc3e16ec718dfbdf57eaf18fdb4695"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-01-04"
